@@ -1,1 +1,3 @@
-# Model Monitor Batch Tranform (Dummy Endpoint and on-Demand Processsing Job execution) 
+# Model Monitor Batch Tranform
+
+Using an additional RealTime Endpoint and on-Demand Processsing Job execution. 
